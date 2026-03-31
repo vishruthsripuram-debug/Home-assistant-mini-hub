@@ -15,3 +15,11 @@ The design is not yet perfect and has some room to improve for example rounding 
 ## Internal layout
 <img width="504" height="433" alt="Screenshot 2026-03-31 at 2 35 16 pm" src="https://github.com/user-attachments/assets/65c98d0a-8a1a-456e-a35f-7a7c740efeec" />
 The Sensor has a relatively simple layout with parts that are extremely easy to source making this open source project amazing for beginners and advanced users combined. The microcontroller is strategically placed at the bottom so that it can be easily and discreetly powered by a simple usb-c cable making it easy to install and power for cheap by anyone. the sensors have been placed far away from most electric components to avoid temperature differences and interference. next to the MCU there is a spot for a coin cell battery which is the same as in the aqara zigbee sensors so if you are already stocking those it mayb be worth while to build this project.
+
+## BOM
+[Home assistant mini hub-bom.csv](https://github.com/user-attachments/files/26390422/Home.assistant.mini.hub-bom.csv)
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"temperature and humidity sensor","To measure temperature and humidity",1,9.50,"https://www.digikey.com.au/en/products/detail/sunfounder/ST0248/22116817","Digikey"
+"Microcontroller","To control all electronics and send back information",1,5.44,"https://www.digikey.com.au/en/products/detail/seeed-technology-co-ltd/113991254/24613066","Digikey"
+"MM wave sensor","To detect presence",1,4.54,"https://www.digikey.com.au/en/products/detail/seeed-technology-co-ltd/101010001/22109372?s=N4IgTCBcDa4CwHEASAvABAWwwdQIYDcBTNAZUIDsBnAewCc0AzOtADQEkBBAeRAF0BfIA","Digikey"
+"Double sided foam tape 6mm","To stick components to base and to stick sensor to wall",1,3.42,"https://www.officeworks.com.au/shop/officeworks/p/x-press-it-high-tack-foam-mounting-tape-6mm-x-2m-xpfth6","Officeworks"
