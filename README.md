@@ -24,3 +24,7 @@ The Sensor has a relatively simple layout with parts that are extremely easy to 
 | Microcontroller | To control all electronics and send back information | 1 | $5.44 | [Link to Listing](https://www.digikey.com.au/en/products/detail/seeed-technology-co-ltd/113991254/24613066) | Digikey |
 | MM wave sensor | To detect presence | 1 | $4.54 | [Link to Listing](https://www.digikey.com.au/en/products/detail/sunfounder/ST0248/22116817) | Digikey |
 | Double sided foam tape 6mm | To stick components to base and to stick sensor to wall | 1 | $3.42 | [Link to Listing](https://www.officeworks.com.au/shop/officeworks/p/x-press-it-high-tack-foam-mounting-tape-6mm-x-2m-xpfth6) | Officeworks |
+
+## wiring diagram
+<img width="636" height="591" alt="Wiring diagram" src="https://github.com/user-attachments/assets/91ef67cd-b7d2-4fa6-be01-13c530a25f68" />
+# build instructions
