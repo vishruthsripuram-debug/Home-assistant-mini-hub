@@ -29,7 +29,7 @@ To mount individual components to the frame and to mount the sensor to the main 
 
 ![Screenshot 2026-03-31 at 3.06.36 pm](https://stasis.hackclub-assets.com/images/1774929999405-p1ave9.png)
 
-**Total time spent: 1 hour**
+**Total time spent: 2 hour**
 
 # March 31: CAD
 
@@ -57,7 +57,7 @@ The design had to be contemporary, modern and simple enough for it to fit into a
 ### Future improvements
 The design is not yet perfect and has some room to improve for example rounding corners may smoothen out the sharp angles of the curve finding a better mounting solution than double sided tape is also required however not all people are comfortable with. Designing a pot light mount would also be a good idea to easily conceal the electronics.
 
-**Total time spent: 1.75 hours**
+**Total time spent: 3.5 hours**
 
 # March 31: Updating .Readme
 
@@ -95,11 +95,11 @@ I added the sample code to the readme which is essentially just flashing esp hom
 
 ![Screenshot 2026-04-13 at 9.53.33 am](https://stasis.hackclub-assets.com/images/1776038018059-v7tfmq.png)
 
-**Total time spent: 0.33 hours**
+**Total time spent: 0.5 hours**
 
 # April 12: Coding
 
 I coded the sample code for the sensor. It essentially just reads the sensor values and exposes them to ESP home which exposes it to home assistnat giving you sensor entities to control.
 ![Screenshot 2026-04-13 at 9.54.42 am](https://stasis.hackclub-assets.com/images/1776038085159-62wew1.png)
 
-**Total time spent: 0.75 hours**
+**Total time spent: 1.5 hours**
